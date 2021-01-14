@@ -1,0 +1,108 @@
+header{
+    height: 100%;
+    background-color: #fffbf0;
+}
+.nav-list{
+    font-size: 30px;
+    font-family: 'Poppins', sans-serif;
+}
+.nav-color{
+    background-color: #fffbf0;
+}
+.navbar-logo img{
+    width: 300px;
+}
+.front-bg img{
+    width: 400px;
+}
+.front-text{
+    font-size: 20px;
+}
+.buy-now-btn{
+    background-color: #a4bc46;
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+    border-radius: 10px;
+}
+.buy-now-btn a{
+    text-decoration: none;
+    color: white;
+}
+.buy-now-btn a img{
+    width: 40px;
+}
+
+.orange-color{
+    color: #fabe4c;
+}
+.head-title{
+    font-size: 80px;
+    font-weight: bold;
+    font-family: 'Bebas Neue', cursive;
+}
+.product-card{
+    background-color: white;
+    border: 0;
+    border-radius: 20px;
+    padding: 20px;
+}
+.product-card img{
+    height: 400px;
+    padding: 40px;
+    background-color: #f1f1f1;
+    border-radius: 10px;
+}
+.product{
+    background-color: #fff;
+}
+.product-card-footer{
+    background-color: white;
+    border: 0;
+}
+.woman-man-title{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 40px;
+    padding-top: 100px;
+}
+.product-price{
+    color:orange;
+    font-weight: bold;
+}
+.card{
+    border: 0;
+}
+.card-img img{
+    width: 100%;
+}
+.card-logo img{
+    width: 80px;
+}
+.card-title{
+    font-size: 30px;
+    font-weight: bold;
+}
+.card-text{
+    font-size: 15px;
+}
+.card-option{
+    width: 100%;
+}
+.special-title{
+    padding-top: 120px;
+}
+.about-text{
+    color: #271d1d;
+    padding: 30px;
+    font-family: 'Poppins', sans-serif;
+}
+.about-us{
+    margin-top: 100px;
+}
+.about-bg img{
+    height: 500px;
+}
+.contact-us{
+    margin-top: 80px;
+    background-color: #fffbf0;
+
+}
